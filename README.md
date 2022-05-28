@@ -1,2 +1,2 @@
-# Numerical-methods-PHD-Exam-
-Finite element analysis of a 1D uniaxial bar system
+# Числени методи и програмиране в инженерната практика
+Тема: Крайноелементен анализ на едноосна прътова механична система
