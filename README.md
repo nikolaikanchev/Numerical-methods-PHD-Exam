@@ -8,3 +8,4 @@
 За стартиране кликнете тук: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikolaikanchev/Numerical-methods-PHD-Exam/main?labpath=1D_Bar-Structure_FEM.ipynb)
 
 След кратко зареждане се отваря страница, на която е възможен преглед на двата файла, както и експериментиране с програмния код.
+
